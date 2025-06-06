@@ -6,8 +6,10 @@ function About() {
         <p class='text-3xl mb-5 sticky top-25 z-10 bg-black'>Methawee Thayia</p>
         <div class= 'mb-10'>
         <p class='text-2xl'>
-            Hi there! I'm a fourth-year Computer Science student at the Faculty of Liberal Arts and Science,
-            Kasetsart University, Kamphaeng Saen Campus. I am interested in front-end and Mobile Application development.
+            Hi! I'm a fourth-year Computer Science student at the Faculty of Liberal Arts and Science, Kasetsart University, Kamphaeng Saen Campus.
+I’m passionate about front-end and mobile application development, especially building clean, user-friendly interfaces.
+I’ve been working on several personal and academic projects using technologies like React, React Native, and Expo, and I’m always eager to learn and improve my skills.
+Currently, I’m looking for opportunities where I can contribute as a Front-end Developer or Mobile App Developer and grow as part of a dynamic tech team.
         </p>
         </div>
 

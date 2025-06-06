@@ -15,6 +15,9 @@ function Navbar() {
                 <a href="#about" class ="bg-transparent  p-4">About</a>
               </li>
               <li>
+                <a href="#project" class ="bg-transparent  p-4">Project</a>
+              </li>
+              <li>
                 <a href="#certificate" class ="bg-transparent p-4">Certificate</a>
               </li>
               <li>
