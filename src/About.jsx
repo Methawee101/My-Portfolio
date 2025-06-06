@@ -1,9 +1,16 @@
-import React from 'react'
+import React from 'react';
+import Nodejs from "./assets/Skill/Nodejs.png";
+import Python from "./assets/Skill/Python.png";
+import ReactLogo from "./assets/Skill/ReactLogo.png";
+import CSS3 from "./assets/Skill/CSS3.jpg";
+import JavaScript from "./assets/Skill/JavaScript.png";
+import Javabanner from "./assets/Skill/Javabanner.jpg";
+import Figma from "./assets/Skill/figma.png"
 
 function About() {
   return (
     <div class = 'mt-14  '>
-        <p class='text-3xl mb-5 sticky top-25 z-10 bg-black'>Methawee Thayia</p>
+        <p class='text-3xl mb-5 sticky top-25 z-10 bg-[#FFF2EB]'>Methawee Thayia</p>
         <div class= 'mb-10'>
         <p class='text-2xl'>
             Hi! I'm a fourth-year Computer Science student at the Faculty of Liberal Arts and Science, Kasetsart University, Kamphaeng Saen Campus.
@@ -13,9 +20,8 @@ Currently, I’m looking for opportunities where I can contribute as a Front-end
         </p>
         </div>
 
-        <p class='text-3xl mb-5 sticky top-25 z-10 bg-black'>My Skills</p>
-        <div class='flex justify-between'>
-
+        <p class='text-3xl mb-5 sticky top-25 z-10 bg-[#FFF2EB]'>My Skills</p>
+        <div class='flex  gap-20'>
             <div>
                 <p class='text-2xl'>Languages</p>
                 <div class='flex flex-col gap-3 text-xl my-3'>
@@ -52,6 +58,15 @@ Currently, I’m looking for opportunities where I can contribute as a Front-end
                     <li>Drow.io</li>
                 </div>
             </div>
+        </div>
+        <div className='mt-7 flex gap-5'>
+            <img src={Nodejs} alt="nodejs" className='w-24' />
+            <img src={Python} alt="python" className='w-24' />
+            <img src={ReactLogo} alt="react" className='w-24' />
+            <img src={CSS3} alt="CSS3"className='w-24' />
+            <img src={JavaScript} alt="js" className='w-24' />
+            <img src={Javabanner} alt="java" className='w-24' />
+            <img src={Figma} alt="figma" className='w-27' />
         </div>
     </div>
   )

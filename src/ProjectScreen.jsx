@@ -3,7 +3,7 @@ import React from 'react'
 function ProjectScreen() {
   return (
     <div className="min-h-screen ">
-        <p className='text-3xl sticky top-25 z-10 bg-black'>My Project</p>
+        <p className='text-3xl sticky top-25 z-10 bg-[#FFF2EB]'>My Project</p>
         <div className='mt-10 '>
             <div>
                 <h1 className='text-2xl'>MiniProject Database system</h1>

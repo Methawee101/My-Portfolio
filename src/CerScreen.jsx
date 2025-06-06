@@ -10,7 +10,7 @@ import Set from './assets/Set.png';
 function CerScreen() {
   return (
     <div className="min-h-screen ">
-        <h1 className='text-3xl sticky top-25 z-10 bg-black'>My Certificate</h1>
+        <h1 className='text-3xl sticky top-25 z-10 bg-[#FFF2EB]'>My Certificate</h1>
         <div className='flex flex-wrap justify-center mt-10 gap-10'>
             <div className='w-[450px]'>
                 <img src={OSCer} alt="OSCer" className='h-[300px]' />

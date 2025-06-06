@@ -14,7 +14,7 @@ function App() {
     <>
     
       <Navbar/>
-      <div id = "home" className='min-h-screen p-10 '>
+      <div id = "home" className='min-h-screen '>
         <HomeScreen/>
       </div>
       <div id="about" className="min-h-screen p-10  ">
