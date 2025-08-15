@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 import HomeScreen from './HomeScreen';
 import About from './About';
 import CerScreen from './cerScreen';
-import Contact from './contact';
+import Contact from './Contact';
 import ProjectScreen from './ProjectScreen';
 
 function App() {
