@@ -10,7 +10,7 @@ import Figma from "./assets/Skill/figma.png"
 function About() {
   return (
     <div class = 'mt-14  '>
-        <p class='text-3xl mb-5 sticky top-25 z-10 bg-[#FFF2EB]'>Methawee Thayia</p>
+        <p class='text-3xl mb-5 sticky top-25 z-10 bg-[#222831]'>Methawee Thayai</p>
         <div class= 'mb-10'>
         <p class='text-2xl'>
             Hi! I'm a fourth-year Computer Science student at the Faculty of Liberal Arts and Science, Kasetsart University, Kamphaeng Saen Campus.
@@ -20,7 +20,7 @@ Currently, I’m looking for opportunities where I can contribute as a Front-end
         </p>
         </div>
 
-        <p class='text-3xl mb-5 sticky top-25 z-10 bg-[#FFF2EB]'>My Skills</p>
+        <p class='text-3xl mb-5 sticky top-25 z-10 bg-[#222831]'>My Skills</p>
         <div class='flex  gap-20'>
             <div>
                 <p class='text-2xl'>Languages</p>

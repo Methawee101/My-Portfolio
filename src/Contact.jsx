@@ -4,7 +4,7 @@ import { AiFillMail,AiFillPhone,AiFillGithub } from "react-icons/ai";
 function Contact() {
   return (
     <div className="min-h-screen ">
-        <p className='text-3xl sticky top-25 z-10 bg-[#FFF2EB]'>Contact</p>
+        <p className='text-3xl sticky top-25 z-10 bg-[#222831]'>Contact</p>
         <div className='mt-10 flex items-center space-x-4'>
                 <AiFillMail className="text-2xl text-gray-600" />
                 <p className='text-2xl'> pray.methawee@gmail.com</p>
