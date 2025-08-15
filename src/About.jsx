@@ -5,7 +5,7 @@ import ReactLogo from "./assets/Skill/ReactLogo.png";
 import CSS3 from "./assets/Skill/CSS3.jpg";
 import JavaScript from "./assets/Skill/JavaScript.png";
 import Javabanner from "./assets/Skill/Javabanner.jpg";
-import Figma from "./assets/Skill/figma.png"
+import Figma from "./assets/Skill/Figma.png"
 
 function About() {
   return (
