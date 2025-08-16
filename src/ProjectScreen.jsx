@@ -2,7 +2,7 @@ import React from 'react'
 
 function ProjectScreen() {
   return (
-    <div className="min-h-screen ">
+    <div className="min-h-screen w-full">
         <p className='text-3xl sticky top-20 z-10 bg-[#222831]'>My Project</p>
         <div className='mt-10 '>
             <div>
