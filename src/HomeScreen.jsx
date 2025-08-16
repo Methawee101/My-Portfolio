@@ -1,11 +1,11 @@
 import React from 'react';
-import IMG_5655 from './assets/IMG_5655.jpg'
+import image1 from './assets/image1.jpg'
 
 function HomeScreen() {
   return (
     <div className='flex min-h-screen  w-full' >
         <div className='w-1/2 h-screen'>
-          <img src={IMG_5655} alt="Profile" className=' h-full w-full object-cover'/>
+          <img src={image1} alt="Profile" className=' h-full w-full object-cover'/>
         </div>
         <div className = 'w-1/2 flex flex-col text-3xl items-center justify-center'>
             <p className='mb-7 text-5xl'>Hi!</p>
