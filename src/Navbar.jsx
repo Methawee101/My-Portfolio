@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav class ="w-full fixed bg-[#393E46] z-50">
         <div class = "flex flex-wrap items-center justify-between p-4">
-          <a class = "p-4 text-4xl self-center">My Portfolio</a>
+          <a class = "p-4 text-4xl self-center" href='#home'>My Portfolio</a>
           
           <div  id = "navbar-default">
             <ul class = "flex text-2xl  ">
